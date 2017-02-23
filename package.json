@@ -1,0 +1,25 @@
+{
+  "name": "ksana2015-scaffold-default",
+  "description": "New Ksana application",
+  "version": "0.14.0",
+  "main": "index.html",
+  "inject-js-start": "nwmain.js",
+  "single-instance": true,
+  "window": {
+    "toolbar": true,
+    "width": 1060,
+    "height": 700
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samsuanchen/jeforth"
+  },
+  "gitHead": "3dc2bc5d2abc4c7cc31cf367e8befc38dde2de5e",
+  "readme": "scaffold for ksana2015 app\r\n====\r\n\r\ninstall github.com/ksanaforge/ksana2015\r\n\r\nks mkdb sample\r\n\r\nreact-bundle.js is created with \r\n\r\n    browserify -r react -r react/addons > react-bundle.js",
+  "readmeFilename": "README.md",
+  "_id": "ksana2015-scaffold-default@0.14.0",
+  "_shasum": "b677c8df225a1d8572577740ccb34235fafcc5aa",
+  "_from": "..\\Users\\chen\\AppData\\Local\\Temp\\npm-11296-4341d25c\\git-cache-468235982d0e\\3dc2bc5d2abc4c7cc31cf367e8befc38dde2de5e",
+  "_resolved": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git#3dc2bc5d2abc4c7cc31cf367e8befc38dde2de5e"
+}
